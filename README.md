@@ -27,5 +27,5 @@ A simple yet elegant **Tic-Tac-Toe game** built using **Python** and **Tkinter G
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe-python-gui.git
-cd tic-tac-toe-python-gui
+git clone https://github.com/Amrok9/python-tic-tac-toe-game.git
+cd python-tic-tac-toe-game
