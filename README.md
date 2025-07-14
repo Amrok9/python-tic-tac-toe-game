@@ -18,7 +18,7 @@ A simple yet elegant **Tic-Tac-Toe game** built using **Python** and **Tkinter G
 
 ## 📸 Demo
 
-![image alt]([https://user-images.githubusercontent.com/yourusername/demo-image.png](https://github.com/Amrok9/python-tic-tac-toe-game/blob/38b09d647da57a6ea51909e816b4f802be2ea0ef/Screenshot%202025-07-14%20140257.jpg))  
+![image alt]https://github.com/Amrok9/python-tic-tac-toe-game/blob/38b09d647da57a6ea51909e816b4f802be2ea0ef/Screenshot%202025-07-14%20140257.jpg)
 
 
 ## 🚀 Getting Started
