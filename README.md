@@ -1,58 +1,30 @@
-# python-tic-tac-toe-game
+# 🕹️ Tic Tac Toe Game with Python and Tkinter
 
-# 🎮 Tic Tac Toe Game Using Python and Tkinter
-
-Welcome to a fully interactive and beginner-friendly **Tic Tac Toe Game** built entirely using **Python** and the **Tkinter GUI framework**. This project is a perfect starting point for anyone looking to dive into **Python game development**, **desktop UI applications**, or practice building real-time **2-player logic-based games**.
-
----
-
-## 📌 Table of Contents
-
-- [🎯 Features](#-features)
-- [🛠️ Technologies Used](#-technologies-used)
-- [🚀 Getting Started](#-getting-started)
-- [📂 Project Structure](#-project-structure)
-- [📸 Screenshots](#-screenshots)
-- [📚 How It Works](#-how-it-works)
-- [🎓 What You Will Learn](#-what-you-will-learn)
-- [👶 Ideal For](#-ideal-for)
-- [📌 SEO Keywords](#-seo-keywords)
-- [📄 License](#-license)
-- [🙌 Contributing](#-contributing)
-- [👤 Author](#-author)
-
----
+A simple yet elegant **Tic-Tac-Toe game** built using **Python** and **Tkinter GUI library**. This project demonstrates how to create interactive desktop games with a clean UI and dynamic user interaction logic.
 
 ## 🎯 Features
 
-- ✅ Interactive 3x3 grid game interface
-- ✅ Two-player game logic: X vs. O
-- ✅ Random player start
-- ✅ Win detection (horizontal, vertical, diagonal)
-- ✅ Tie detection and visual feedback
-- ✅ Restart button to replay without closing
-- ✅ Highlight winning combinations
-- ✅ Clean and responsive GUI using Tkinter
-
----
+- Two-player support: "X" vs. "O"
+- Real-time winner detection
+- Tie condition handling
+- Restart button to play again
+- Random player selection at start
+- Highlight winning combinations
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x**
-- **Tkinter** – Python’s built-in GUI library
+- **Python 3**
+- **Tkinter** – built-in GUI toolkit for creating graphical interfaces
 
----
+## 📸 Demo
+
+![image alt]([https://user-images.githubusercontent.com/yourusername/demo-image.png](https://github.com/Amrok9/python-tic-tac-toe-game/blob/38b09d647da57a6ea51909e816b4f802be2ea0ef/Screenshot%202025-07-14%20140257.jpg))  
+
 
 ## 🚀 Getting Started
 
-### 🔧 Requirements
+### 1. Clone the repository
 
-- Python 3.x installed on your system  
-  [Download Python](https://www.python.org/downloads/)
-
-### 📦 Installation
-
-1. **Clone the repository**
 ```bash
-git clone https://github.com/Amrok9/python-tic-tac-toe-game.git
-
+git clone https://github.com/yourusername/tic-tac-toe-python-gui.git
+cd tic-tac-toe-python-gui
